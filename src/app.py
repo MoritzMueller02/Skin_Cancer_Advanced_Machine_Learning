@@ -28,7 +28,7 @@ LLM_NAME = "google/flan-t5-large"
 HF_TOKEN   = "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"
 DATA_DIR = "data/harvard_dataset"  # Path where you download and unpack the Harvard Dataverse dataset
 DIARY_CSV = "diary.csv"
-gemini_api_secret_name = 'AIzaSyDA3nwO6265GZCDaBqTxTAmKWwrSCfSqnc'
+gemini_api_secret_name = ''
 CANCER_DIR = r"D:\Models\googleflan-t5-xl" #you 
 LLM_DIR = r"D:\Models\SkinCancer"
 
