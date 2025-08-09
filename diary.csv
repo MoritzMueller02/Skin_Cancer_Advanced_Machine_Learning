@@ -1,0 +1,70 @@
+timestamp,image_path,mole_id,geo_location,label,score,body_location,prior_consultation,pain,itch
+2025-04-29T13:05:25.913359,scans\#1_1745928325.8792.png,#1,"Lisbon, Portugal",melanoma,0.9959611296653748,Face,Yes,Yes,Yes
+2025-04-29T13:06:30.178953,scans\#2_1745928390.144818.png,#2,"Lisbon, Portugal",melanoma,0.9959611296653748,Face,Yes,Yes,Yes
+2025-04-29T13:08:22.822217,scans\#1_1745928502.774349.png,#1,"Lisbon, Portugal",melanoma,0.9959611296653748,Hand,Yes,No,Yes
+2025-04-29T13:09:36.018731,scans\#3_1745928575.983711.png,#3,"Lisbon, Portugal",melanoma,0.9959611296653748,Leg,No,Yes,Yes
+2025-04-29T17:30:33.821103,scans\#2_1745944233.245322.png,#2,"Lisbon, Portugal",melanocytic_Nevi,0.4439366459846496,Face,Yes,Yes,Yes
+2025-04-29T17:33:25.041392,scans\davide#2_1745944404.654903.png,davide#2,"Lisbon, Portugal",melanocytic_Nevi,0.8292632102966309,Face,Yes,Yes,Yes
+2025-04-29T17:34:41.836789,scans\devin_1745944481.142752.png,devin,"Lisbon, Portugal",melanocytic_Nevi,0.9967155456542968,Face,Yes,Yes,Yes
+2025-04-29T17:35:31.547200,scans\luis_1745944530.988093.png,luis,"Lisbon, Portugal",melanocytic_Nevi,0.4439366459846496,Face,Yes,Yes,Yes
+2025-04-29T17:36:15.630620,scans\davide _1745944575.23735.png,davide ,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-04-29T17:44:07.323184,scans\moritz_1745945045.994378.png,moritz,"Lisbon, Portugal",melanocytic_Nevi,0.9988334774971008,Face,Yes,Yes,Yes
+2025-04-29T19:51:05.786284,scans\henrik_1745952665.262212.png,henrik,"Lisbon, Portugal",actinic_keratoses,0.8578981757164001,Face,Yes,No,Yes
+2025-04-29T19:55:31.762789,scans\henrik_1745952929.421608.png,henrik,"Lisbon, Portugal",actinic_keratoses,0.4901551306247711,Face,Yes,Yes,Yes
+2025-04-29T23:33:06.835684,scans\davide_1745965986.624692.png,davide,"Lisbon, Portugal",actinic_keratoses,0.9834831953048706,Face,Yes,Yes,Yes
+2025-04-30T09:12:52.722319,scans\davide_1746000772.343227.png,davide,"lisbon, carcavelos",actinic_keratoses,0.9834831953048706,Face,Yes,Yes,Yes
+2025-04-30T10:56:25.485956,scans\test_1746006985.419957.png,test,"Carcavelos, Portugal",melanoma,0.9959611296653748,Face,Yes,Yes,Yes
+2025-04-30T11:33:11.118187,scans\test_1746009191.066315.png,test,"Lisbon, Portugal",melanoma,0.9959611296653748,Face,Yes,Yes,Yes
+2025-04-30T13:50:44.668034,scans\#1_1746017444.623243.png,#1,"Lisbon, Portugal",melanoma,0.9959611296653748,Face,Yes,Yes,Yes
+2025-04-30T14:04:45.233932,scans\#1_1746018285.200118.png,#1,"Lisbon, Portugal",melanoma,0.9959611296653748,Face,Yes,Yes,Yes
+2025-04-30T14:06:00.829500,scans\Devin_1746018360.456991.png,Devin,"Carcavelos, Portugal",melanocytic_Nevi,0.9967155456542968,Face,Yes,Yes,Yes
+2025-04-30T14:09:03.071974,scans\m1_1746018542.702213.png,m1,"Oeiras, Portugal",melanocytic_Nevi,0.9967155456542968,Face,Yes,Yes,Yes
+2025-04-30T14:24:42.219244,scans\devin_1746019481.856999.png,devin,"Rosenheim, Germany",melanocytic_Nevi,0.9967155456542968,Face,Yes,Yes,Yes
+2025-04-30T14:28:41.792383,scans\henrik_1746019721.457079.png,henrik,"München, Deutschland",actinic_keratoses,0.8578981757164001,Face,Yes,Yes,Yes
+2025-04-30T14:51:47.348228,scans\chico_1746021107.290967.png,chico,"Lisbon, Portugal",melanoma,0.9959611296653748,Face,Yes,Yes,Yes
+2025-04-30T14:57:40.339450,scans\devin _1746021459.627534.png,devin ,"Kiefersfelden, Deutschland",melanocytic_Nevi,0.9967155456542968,Face,Yes,Yes,Yes
+2025-04-30T15:05:41.461062,scans\francisco _1746021940.815572.png,francisco ,"Lisbon, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-02T09:49:05.462225,scans\asd_1746175745.047232.png,asd,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-02T10:32:39.423730,scans\francisco_1746178358.73749.png,francisco,"Tokio, Japan",melanocytic_Nevi,0.9836538434028624,Face,Yes,Yes,Yes
+2025-05-02T10:39:05.009635,"scans\Lisbon, Portugal_1746178744.078974.png","Lisbon, Portugal","Kiefersfelden, Deutschland",melanocytic_Nevi,0.985711634159088,Face,Yes,Yes,Yes
+2025-05-02T12:03:17.368898,scans\devin_1746183796.948884.png,devin,"Lisbon, Portugal",melanocytic_Nevi,0.985711634159088,Face,Yes,Yes,Yes
+2025-05-02T12:07:46.941156,scans\sara_1746184066.586147.png,sara,"Carcavelos, Portugal",melanocytic_Nevi,0.9976047277450562,Arm,No,No,No
+2025-05-02T13:08:33.565207,scans\#2_1746187713.206631.png,#2,"Tokio, Japan",melanocytic_Nevi,0.9976047277450562,Face,Yes,Yes,Yes
+2025-05-06T09:37:58.483174,scans\#2_1746520678.456348.png,#2,"Lisbon, Portugal",actinic_keratoses,0.9184166193008424,Face,Yes,Yes,Yes
+2025-05-06T09:45:06.628448,scans\qw_1746521106.png,qw,"Lisbon, Portugal",melanocytic_Nevi,0.9988334774971008,Face,Yes,Yes,Yes
+2025-05-06T09:49:02.990288,scans\#2_1746521342.png,#2,"Lisbon, Portugal",melanocytic_Nevi,0.9967155456542968,Face,Yes,Yes,Yes
+2025-05-06T09:54:18.686210,"scans\Lisbon, Portugal_1746521658.png","Lisbon, Portugal",#1,melanocytic_Nevi,0.9988334774971008,Face,Yes,Yes,Yes
+2025-05-06T10:00:03.639588,scans\Francisco_1746522003.png,Francisco,"Oerias, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:00:44.142906,scans\asd_1746522044.png,asd,asd,melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:01:11.773718,scans\asd_1746522071.png,asd,"Lisbon, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:06:08.209684,scans\#2_1746522368.png,#2,"Lisbon, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:08:09.416509,scans\test_1746522489.png,test,"Oeiras, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:12:20.938249,"scans\Lisbon, Portugal_1746522740.png","Lisbon, Portugal",#2,melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:13:03.768775,scans\#2_1746522783.png,#2,"Lisbon, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:15:28.557789,scans\#2_1746522928.png,#2,#1,melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:15:36.871851,scans\#2_1746522936.png,#2,"Lisbon, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:16:00.949717,"scans\Lisbon, Portugal_1746522960.png","Lisbon, Portugal","Kiefersfelden, Deutschland",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:16:39.945828,scans\hello_1746522999.png,hello,"Tokio, Japan",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:18:16.238101,scans\#1_1746523096.png,#1,"Lisbon, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:19:33.630550,scans\#1_1746523173.png,#1,"Lisbon, Portugal",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-06T10:21:38.345974,scans\#2_1746523298.png,#2,"Tokio, Japan",melanocytic_Nevi,0.9987529516220092,Face,Yes,Yes,Yes
+2025-05-13T11:39:08.543197,path/to/mole/image.jpg,#2,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-13T12:56:31.269725,path/to/mole/image.jpg,#1,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-13T12:58:36.082643,path/to/mole/image.jpg,#2,"Lisbon, Portugal",melanoma,0.9959611296653748,Face,Yes,Yes,Yes
+2025-05-13T13:03:49.410600,path/to/mole/image.jpg,#2,"Lisbon, Portugal",actinic_keratoses,0.8578981757164001,Face,Yes,Yes,Yes
+2025-05-13T13:08:05.045365,path/to/mole/image.jpg,#2,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-13T13:30:07.541217,path/to/mole/image.jpg,#2,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-13T13:32:03.247420,path/to/mole/image.jpg,#2,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-13T15:51:12.083324,path/to/mole/image.jpg,#1,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T09:13:25.645720,path/to/mole/image.jpg,test,"Oeiras, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T09:18:54.269731,path/to/mole/image.jpg,test,"Oeiras, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T09:22:31.657949,path/to/mole/image.jpg,demo,"Oeiras, Portugal",melanocytic_Nevi,0.99889874458313,Leg,Yes,Yes,Yes
+2025-05-14T09:29:34.096106,path/to/mole/image.jpg,#2,"Tokio, Japan",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T09:31:18.619833,path/to/mole/image.jpg,#2,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T09:34:43.142050,path/to/mole/image.jpg,#2,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T09:36:29.954641,path/to/mole/image.jpg,devin,"Kiefersfelden, Deutschland",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T09:37:50.686298,path/to/mole/image.jpg,#2,"Carcavelos, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T09:39:37.797385,path/to/mole/image.jpg,demo,"Tokio, Japan",melanocytic_Nevi,0.99889874458313,Hand,Yes,No,No
+2025-05-14T09:42:21.473749,path/to/mole/image.jpg,demovideo,"Oeiras, Portugal",melanocytic_Nevi,0.99889874458313,Neck,No,No,Yes
+2025-05-14T10:19:08.388385,path/to/mole/image.jpg,test,"Lisbon, Portugal",melanocytic_Nevi,0.99889874458313,Face,Yes,Yes,Yes
+2025-05-14T13:05:36.477482,path/to/mole/image.jpg,#2,"Tokio, Japan",melanocytic_Nevi,0.9976165294647217,Face,Yes,Yes,Yes
